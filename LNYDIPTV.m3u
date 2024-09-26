@@ -99,7 +99,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226874/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226830/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227239/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",中国教育-1
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",中国教育-1
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226732/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226889/index.m3u8
