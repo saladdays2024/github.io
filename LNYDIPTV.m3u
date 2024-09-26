@@ -67,7 +67,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227313/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227303/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227316/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227310/index.m3u8
