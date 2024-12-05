@@ -11,8 +11,8 @@
 # 名称: 直连修正
 # 日期: 2024年11月2日
 # 自补
-  - DOMAIN-SUFFIX,saladdays.us.kg
-  - DOMAIN-SUFFIX,istore.istoreos.com
+  - DOMAIN-SUFFIX,us.kg
+  - DOMAIN-SUFFIX,istoreos.com
 
 # TV
   - DOMAIN-SUFFIX,speedtest.cn
