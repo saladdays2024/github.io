@@ -1,33 +1,18 @@
-# >>=====================================<<
-# ||                                     ||
-# ||      ██████╗  ██████╗  ██████╗      ||
-# ||     ██╔════╝ ██╔════╝ ██╔════╝      ||
-# ||     ███████╗ ███████╗ ███████╗      ||
-# ||     ██╔═══██╗██╔═══██╗██╔═══██╗     ||
-# ||     ╚██████╔╝╚██████╔╝╚██████╔╝     ||
-# ||      ╚═════╝  ╚═════╝  ╚═════╝      ||
-# ||                                     ||
-# >>=====================================<<
 # 名称: 直连修正
-# 日期: 2024年11月2日
-# 自补
-  - DOMAIN-SUFFIX,us.kg
-  - DOMAIN-SUFFIX,istoreos.com
 
+payload:
 # TV
   - DOMAIN-SUFFIX,speedtest.cn
   - DOMAIN,ottsdk.itv.video
-  - DOMAIN,www.czzyvideo.com
-
+  - DOMAIN-SUFFIX,czzyvideo.com
+  - DOMAIN-SUFFIX,istoreos.com
 # 公共 NTP 服务
   - DOMAIN-SUFFIX,ntp.org
   - DST-PORT,123
-
 # 游戏下载
   - DOMAIN,gst.prod.dl.playstation.net
   - DOMAIN-SUFFIX,steamcontent.com
-
-# 常见的代理工具
+# PROCESS-NAME
   - PROCESS-NAME,v2ray
   - PROCESS-NAME,Surge
   - PROCESS-NAME,ss-local
@@ -47,10 +32,22 @@
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,uTorrent
   - PROCESS-NAME,WebTorrent
-
-# 其它
+  - PROCESS-NAME,zerotier-one
+# DOMAIN-SUFFIX
   - DOMAIN-SUFFIX,mihomos.us.kg
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,quickconnect.to
   - DOMAIN-SUFFIX,cocopilot.org
-  - PROCESS-NAME,zerotier-one
+  - DOMAIN-SUFFIX,iqiyis.com
+  - DOMAIN-SUFFIX,musicbrainz.org
+  - DOMAIN-SUFFIX,coverartarchive.org
+  - DOMAIN-SUFFIX,archive.org
+  - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,apple-dns.cn
+  - DOMAIN-SUFFIX,synology.com
+  - DOMAIN-SUFFIX,quickconnect.to
+  - DOMAIN-SUFFIX,cocopilot.org
+  - DOMAIN-SUFFIX,oaifree.com
+# 补充
+  - DOMAIN-SUFFIX,us.kg,DIRECT
+  - DOMAIN-SUFFIX,istoreos.com,DIRECT
