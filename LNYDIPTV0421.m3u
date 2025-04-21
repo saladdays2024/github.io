@@ -131,9 +131,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226869/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227352/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226866/index.m3u8
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",CCTV-兵器科技
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视",CCTV-兵器科技
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227453/index.m3u8
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",CCTV-第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视",CCTV-第一剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227444/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-电视指南
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227374/index.m3u8
@@ -185,16 +185,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226746/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227233/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226196/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226195/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226666/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226724/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227340/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226185/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226187/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -293,9 +283,9 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226788/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227475/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226142/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226731/index.m3u8
-#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="辽宁",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227242/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226155/index.m3u8
@@ -603,7 +593,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227493/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227393/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="咪咕",咪咕视频02-4K
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227311/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221226998/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227001/index.m3u8
